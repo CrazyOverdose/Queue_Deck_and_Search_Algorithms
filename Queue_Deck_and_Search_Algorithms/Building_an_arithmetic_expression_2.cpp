@@ -5,6 +5,7 @@
 #include <algorithm>
 #include <iterator>
 
+
 using std::list;
 using std::string;
 using std::cin;

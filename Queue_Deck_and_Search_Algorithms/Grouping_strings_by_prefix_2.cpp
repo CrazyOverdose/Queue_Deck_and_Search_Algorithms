@@ -17,9 +17,6 @@ pair<RandomIt, RandomIt> FindStartsWith(
 	RandomIt range_begin, RandomIt range_end,
 	const string& prefix) {
 
-	string alphabet = "abcdefghijklmnopqrstuvwxyz";
-
-
 	if (prefix.empty())
 		return std::make_pair(range_begin, range_begin);
 

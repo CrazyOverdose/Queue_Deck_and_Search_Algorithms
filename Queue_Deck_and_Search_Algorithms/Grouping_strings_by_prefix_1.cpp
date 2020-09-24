@@ -6,7 +6,6 @@
 #include <utility> 
 #include <algorithm>
 
-
 using std::pair;
 using std::lower_bound;
 using std::upper_bound;
